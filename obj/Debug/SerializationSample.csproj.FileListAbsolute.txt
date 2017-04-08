@@ -1,0 +1,6 @@
+C:\Development\Sandpit\SerializationSample\SerializationSample\bin\Debug\SerializationSample.exe.config
+C:\Development\Sandpit\SerializationSample\SerializationSample\bin\Debug\SerializationSample.exe
+C:\Development\Sandpit\SerializationSample\SerializationSample\bin\Debug\SerializationSample.pdb
+C:\Development\Sandpit\SerializationSample\SerializationSample\obj\Debug\SerializationSample.csprojResolveAssemblyReference.cache
+C:\Development\Sandpit\SerializationSample\SerializationSample\obj\Debug\SerializationSample.exe
+C:\Development\Sandpit\SerializationSample\SerializationSample\obj\Debug\SerializationSample.pdb
